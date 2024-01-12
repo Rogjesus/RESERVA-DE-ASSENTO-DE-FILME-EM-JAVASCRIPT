@@ -1,0 +1,30 @@
+Reserva de assentos de cinema
+Este é um projeto simples de HTML, CSS e JavaScript para reservar vagas de cinema. 
+Os usuários podem selecionar um filme e escolher seus assentos, e o preço total é atualizado dinamicamente com base em sua seleção.
+
+Como usar
+Abra o index.htmlarquivo em um navegador da web.
+Escolha um filme na lista suspensa.
+Clique nos assentos disponíveis para selecioná-los.
+Os assentos selecionados serão destacados e o preço total será atualizado de acordo.
+Opções de filme
+Ultimato dos Vingadores: $ 10
+Coringa: $ 12
+Toy Story 4: $ 8
+O Rei Leão: $ 9
+Legenda do assento
+N/A: Assento indisponível
+Selecionado: Assento atualmente selecionado pelo usuário
+Ocupado: assento já reservado ou ocupado
+Estrutura do Projeto
+index.html: Arquivo HTML principal contendo a estrutura da página.
+style.css: arquivo CSS para estilizar a página.
+script.js: arquivo JavaScript para lidar com a seleção de assentos e atualizar o preço total.
+Capturas de tela
+Inclua algumas capturas de tela ou gifs demonstrando a funcionalidade e a aparência do projeto.
+
+Contribuindo
+Sinta-se à vontade para contribuir com este projeto. Se você tiver alguma sugestão ou melhoria, abra um problema ou crie uma solicitação pull.
+
+Licença
+Este projeto está licenciado sob a Licença MIT . Consulte o arquivo LICENSE.md para obter detalhes.
